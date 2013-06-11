@@ -1,2 +1,2 @@
-hate-o-meter
+Hate-O-Meter
 ============
